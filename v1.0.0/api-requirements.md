@@ -7,6 +7,7 @@
   - Multiple-choice questions
   - True/False questions
   - Flashcards
+- _Note_: For v1.0.0, this service will only focus on QAs in the format of question/answer (i.e flashcards)
 
 ## Functional Requirements
 
