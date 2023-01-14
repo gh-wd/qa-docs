@@ -10,6 +10,7 @@
 | Must Have | Account management | 2 |
 | Must Have | Flashcard persistence | 3 |
 | Must Have | Flashcard sessions | 4 |
+| Must Have | User Account Auth | 5 |
   
 ### Use cases
 - Flashcard Creation
